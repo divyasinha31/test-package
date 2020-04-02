@@ -1,6 +1,6 @@
 {
   "name": "test-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Testing of hosting package on git hub",
   "main": "lib/index.js",
   "scripts": {
