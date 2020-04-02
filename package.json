@@ -1,0 +1,22 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "Testing of hosting package on git hub",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyasinha31/test-package.git"
+  },
+  "author": "Divya Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyasinha31/test-package/issues"
+  },
+  "homepage": "https://github.com/divyasinha31/test-package#readme",
+  "dependencies": {
+    "@types/node": "^10.17.18"
+  }
+}

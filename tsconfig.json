@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl"                 : "src",
+    "module"                  : "commonjs",
+    "target"                  : "esnext",
+    "noImplicitAny"           : true,
+    "typeRoots"               : ["node_modules/@types"],
+    "outDir"                  : "lib",
+    "declaration"             : true,
+    "emitDecoratorMetadata"   : true,
+    "experimentalDecorators"  : true,
+    "strictNullChecks"        : true
+  },
+  "include": [
+      "src/**/*"
+  ],
+  "exclude": [
+      "node_modules",
+      "log",
+      "**/*.rdb"
+  ]
+}
