@@ -3,6 +3,7 @@
 Basic npm package for testing
 
 ## Installation
+This will install the latest version of the test-package.
 ```
 npm install git+https://github.com/divyasinha31/test-package.git
 ```
