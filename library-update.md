@@ -22,3 +22,4 @@
 9. Run npm install
 10. Push changes
 11. Update readme.md and add new version
+12. Push readme update
