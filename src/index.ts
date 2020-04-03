@@ -1,5 +1,6 @@
+const emojic = require('emojic')
+
 export function main() {
   console.log('HELLO WORLD')
-  console.log('NEW BRANCH UPDATE')
-  console.log('VERSION 1.1.0')
+  console.log('THIS IS WORKING FINE ', emojic.whiteCheckMark)
 }
